@@ -37,5 +37,3 @@ We will then call the service directly from the command line. You can also decid
 
 And of course, as always, you can do the activity for both the Python and Cpp versions.
 
-I’ll see you in the next lecture for the solution.
-
